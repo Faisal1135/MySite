@@ -342,11 +342,11 @@ export default {
       gsap.to(camera.position, {
         y: 1000,
         ease: 'power3.in',
-        duration: 1,
+        duration: 1.5,
         delay: 2,
-        // onComplete: () => {
-        //   this.$router.push('/work')
-        // }
+        onComplete: () => {
+          this.$router.push('/work')
+        }
       })
     })
 

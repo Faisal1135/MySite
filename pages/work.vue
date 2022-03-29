@@ -42,37 +42,37 @@ export default {
           image: {
             url: iphoneImg
           },
-          title: 'IPHONE'
+          title: 'Flutter'
         },
         {
           image: {
             url: laptopImg
           },
-          title: 'LAPTOP'
+          title: 'React'
         },
         {
           image: {
             url: personImg
           },
-          title: 'Person'
+          title: 'Angular'
         },
         {
           image: {
             url: iphoneImg
           },
-          title: 'IPHONE'
+          title: 'Django'
         },
         {
           image: {
             url: laptopImg
           },
-          title: 'LAPTOP'
+          title: 'Nest JS'
         },
         {
           image: {
             url: personImg
           },
-          title: 'Person'
+          title: 'Next Js'
         }
       ]
     }
